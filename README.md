@@ -2,10 +2,13 @@
 
 > **All-in-One Security Tool**
 
- **Disclaimer:** This project is strictly for educational purposes and authorized security testing. The developer assumes no liability for any misuse. See the [Legal Disclaimer](#⚖️-legal-disclaimer) at the bottom of this page.
-
 This project transforms an ESP32-S3-N16R8 into a powerful, standalone pentesting and monitoring toolkit. 
-It hosts a fully-featured local Web Interface (SoftAP) to control various advanced modules, ranging from BLE sniffing to BadUSB.
+This project is a comprehensive, multi-functional toolkit designed for wireless reconnaissance, security testing, and hardware emulation. It equips users with advanced BLE scanning and GATT manipulation, passive Wi-Fi tracking and WPA/WPA2 handshake capture, and optimized BadUSB (HID & MSC) payload execution. Backed by web-based file management, it provides a powerful environment for authorized penetration testing.
+
+
+**Disclaimer:** Before using this tool, please read the [Legal Disclaimer](#legal-disclaimer) at the bottom of this page.
+
+
 
 ---
 
@@ -84,6 +87,6 @@ To install Dreadnought on your ESP32-S3-N16R8 offline, download the latest relea
 
 Usage of the **Dreadnought** firmware and its modules (including but not limited to BadUSB payloads, Wi-Fi sniffing, and BLE injection) for attacking infrastructures, tracking individuals, or accessing networks without prior mutual consent is strictly illegal. 
 
-This firmware is provided **"as is"**, purely for educational purposes, academic research, and authorized security auditing (Ethical Hacking).
+This firmware is provided **"as is"**, purely for educational purposes, academic research, and authorized security auditing.
 
 It is the end user's absolute responsibility to obey all applicable local, state, and federal laws. The author(s) and contributor(s) of this project assume **no liability** and are not responsible for any misuse, damage, or legal consequences caused by the utilization of this hardware/software. By downloading, compiling, or flashing this project, you agree to this disclaimer.
