@@ -8,6 +8,17 @@ This project is a comprehensive, multi-functional toolkit designed for wireless 
 
 **Disclaimer:** Before using this tool, please read the [Legal Disclaimer](#legal-disclaimer) at the bottom of this page.
 
+---
+
+### Educational Objectives
+This firmware is designed to demonstrate core cybersecurity fundamentals in action. Through hands-on exploration, it helps answer:
+
+* **Why a strong Wi-Fi password is your first line of defense?**
+* **Why unattended devices must always be locked?** 
+* **How much data you unintentionally broadcast?**
+* **How your physical presence leaks into the air?**
+* **Why unencrypted protocols are obsolete?**
+* **Why device fingerprinting matters?**
 
 
 ---
