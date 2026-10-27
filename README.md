@@ -94,7 +94,6 @@ Connect to the device's SoftAP to access the WebUI:
   <img width="943" height="452" alt="Ekran görüntüsü 2026-10-01 171938 (1)_cleaned" src="https://github.com/user-attachments/assets/40764427-1fa5-4b2b-b8d5-4244f77313fb" />
   <br><br>
   
-  <img width="525" height="434" alt="Ekran görüntüsü 2026-10-01 171841_cleaned" src="https://github.com/user-attachments/assets/b2382008-613d-4076-abcd-f0b14fa3e435" />
 
 </div>
 
